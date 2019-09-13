@@ -1,0 +1,32 @@
+#container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr ;
+    text-align: center;
+
+}
+body{
+    border:1px solid grey;
+}
+.bord{
+    border:1px solid grey;
+}
+.aline{
+    text-align: center;
+    font-size: 24px;
+}
+#sfont{
+    font-size: 200px;
+}
+#bfont{
+    font-size: 48px;
+}
+.winfont{
+    font-size: 24px;
+}
+#sfont2{
+    font-size: 200px;
+}
+#bfont2{
+    font-size: 48px;
+}
