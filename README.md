@@ -1,3 +1,10 @@
+### GRADED 24/24: See comments below and ask for clarification as needed.
+Good work!
+* Excellent comments
+* Didn't do challenge. Did you run out of time?
+
+Still, a really solid job!
+
 # frontend-halfDay1_b
 
 ### Button Clicking Game
